@@ -1,0 +1,179 @@
+[
+  {
+    "id": "prime",
+    "title": "Prime Holistic Care",
+    "image": "assets/img/prime.JPG",
+    "content": " I designed and developed a fully dynamic website for Prime Holistic Care, focusing on a modern, responsive user experience and long-term maintainability. The platform was built using React.js for the front end and Laravel 12 for the back end, allowing the site to deliver fast performance and seamless content updates. I implemented a custom Content Management System (CMS) that enables administrators to manage pages, services, and site content efficiently without technical assistance. The system was designed with scalability and security in mind, ensuring reliable performance as the platform grows. The website was optimized for search engine visibility and performance, incorporating SEO best practices and clean architectural design. I also handled deployment and infrastructure setup, ensuring smooth hosting, security, and ongoing maintenance. This project highlights my ability to deliver end-to-end full-stack solutions independently, from design and development to deployment and optimization.",
+    "techologies": ["laravel.png","react.png","mysql.png","boostrap.png","alpinejs.png","css.png", "html.png", "js.png"],
+    "link": "https://primeholisticcare.ca/"
+  },
+  {
+    "id": "kirbss",
+    "title": "Kirbss IT Solutions",
+    "image": "assets/img/kirbss.jpg",
+    "content": "Kirbss IT Solutions is your trusted partner for customized IT services, specializing in web development, mobile applications, and logo design. I personally designed and built the website using custom development with HTML, CSS, and JavaScript — ensuring a unique and optimized user experience. The project showcases strong expertise in creating visually appealing websites and branding solutions to help businesses grow and stand out online.",
+    "techologies": ["css.png", "html.png", "js.png"],
+    "link": "https://www.kirbss.com/index.html"
+  },
+  {
+    "id": "suzuki",
+    "title": "Dealer Management System",
+    "image": "assets/img/suzuki.jpg",
+    "content": "I developed a Dealer Management System (DMS) using C# and MS SQL to display sales, stock levels, and comprehensive analytics for each dealership across the Philippines. The system features interactive dashboards and integrated reporting tools, providing clear insights to showcase the performance of individual dealerships effectively. I also created complex APIs to connect and synchronize data across different company databases. Additionally, I managed the company’s server to ensure smooth operation and data integrity. We also worked in a mixed development environment using Java and Spring Boot, where we built additional services and modules to support backend operations, improve data processing, and ensure the system could scale across multiple dealerships.",
+    "techologies": [
+      "csharp.png",
+      "vb.png",
+      "java.png",
+      "springboot.png",
+      "mssql.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": ""
+  },
+  {
+    "id": "suzuki-soa",
+    "title": "Online SOA",
+    "image": "assets/img/suzuki-soa.jpg",
+    "content": "I developed an Online Statement of Account (SOA) system built with VB .NET, MS SQL, and Vue.js. This platform enables dealerships to view their real-time balances, purchase orders, payments, and memos online. It features a dynamic dashboard for quick insights into account status and transaction history, improving transparency and financial management between the company and its dealers.",
+    "techologies": [
+      "csharp.png",
+      "vb.png",
+      "vue.png",
+      "mssql.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": ""
+  },
+  {
+    "id": "suzuki-checker",
+    "title": "Price Checker",
+    "image": "assets/img/suzuki-pricechecker.JPG",
+    "content": "Price Checker Online is a web-based solution I developed to streamline spare parts price inquiries for dealership and support teams. The platform allows users to easily search all products and their corresponding prices, enabling faster and more accurate customer support. Designed for internal use by dealerships and in-call support agents, it significantly reduces manual lookups and improves overall efficiency. This system simplifies access to up-to-date pricing data, enhancing responsiveness and service quality across the network.",
+    "techologies": ["vue.png", "mssql.png", "css.png", "html.png", "js.png"],
+    "link": ""
+  },
+  {
+    "id": "dappchain",
+    "title": "Dappchain",
+    "image": "assets/img/dappchain.jpg",
+    "content": "The DappChain Cryptocurrency Website, built with React JS and PHP, is a versatile platform for discovering, tracking, and trading cryptocurrencies. Explore DeFi, NFTs, gaming, gambling, coin listings, and advertising. With an intuitive interface, users can search, buy, and swap digital assets, enabling seamless participation in the dynamic cryptocurrency ecosystem.",
+    "techologies": [
+      "ci.png",
+      "react.png",
+      "mysql.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": ""
+  },
+  {
+    "id": "nft",
+    "title": "NFTPrenuer",
+    "image": "assets/img/nftprenuer.jpg",
+    "content": "The NFT Advertising Website is a platform built with React JS and CodeIgniter. It showcases and promotes non-fungible tokens (NFTs). Customized using HTML, CSS, and JavaScript, it offers a visually appealing user interface. Users can explore NFT listings, create profiles, and engage in discussions. The website provides search and filtering options, as well as advertising spaces for creators and brands. Discover, promote, and connect with NFTs on this interactive platform.",
+    "techologies": [
+      "ci.png",
+      "react.png",
+      "mysql.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": "http://nft.kirbss.com/"
+  },
+  {
+    "id": "amanoma-client",
+    "title": "Amanoma Gaming Client",
+    "image": "assets/img/amanoma-client.JPG",
+    "content": "The Amanoma Gaming Client is a Windows desktop application developed using Visual Basic, designed to provide players with seamless access to an online gaming platform. This client serves as an interactive gateway for users to log in, launch games, and engage with platform features in real time. The application integrates various backend services through robust API connections, enabling functionalities such as user authentication, game data retrieval, and secure transaction processing. Additional features were developed to enhance user experience, including real-time player stats, game updates, and built-in support tools. The client was built with a focus on performance, security, and user-friendly design, offering a smooth and responsive interface tailored for gamers.",
+    "techologies": ["vb.png", "csharp.png", "mysql.png"],
+    "link": ""
+  },
+  {
+    "id": "amanoma-web",
+    "title": "Amanoma Gaming Website",
+    "image": "assets/img/amanoma-web.JPG",
+    "content": "The Amanoma Gaming Website is a responsive and user-friendly platform designed to support online gaming operations. It features a custom Content Management System (CMS) for managing content, game listings, and promotions efficiently. The website includes an online betting system, allowing users to place and manage bets in real time. To ensure secure and seamless financial transactions, the platform is integrated with the Xendit payment gateway. Additionally, the site connects with external services through API endpoint integration, enabling dynamic data exchange and extending the platform's functionality. Built with performance and accessibility in mind, the website delivers a smooth experience across various devices.",
+    "techologies": ["ci.png", "mysql.png", "css.png", "html.png", "js.png"],
+    "link": "https://www.amanomagaming.com/"
+  },
+  {
+    "id": "rewardspage",
+    "title": "Rewards Page",
+    "image": "assets/img/rewardspage.JPG",
+    "content": "I developed a custom-designed Rewards Page using Laravel to enhance player engagement by showcasing and managing game-based reward offers. This platform allows players to join available reward campaigns, view their reward status in real-time, and receive updates on delivery progress. I also integrated features like newsletter subscriptions, notification history, and player feedback collection to improve communication and user experience. To support administrative needs, I built a comprehensive Content Management System (CMS) with a dashboard that provides detailed analytics and performance metrics for each rewards event. This ensures efficient tracking, reporting, and management of player rewards and participation activities.",
+    "techologies": [
+      "laravel.png",
+      "mysql.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": "https://ole777rewards.com/"
+  },
+  {
+    "id": "scratchcards",
+    "title": "Scratch Cards Event",
+    "image": "assets/img/scratchcards.JPG",
+    "content": "I developed an interactive Scratch Card Promo Game to boost player engagement and promote company campaigns. This web-based event system allowed users to participate in limited-time promotions by scratching digital cards to reveal prizes and rewards. The system was designed to be visually appealing, responsive, and easy to use, encouraging more users to join and interact with the event. The backend included logic for prize distribution, player tracking, and reward validation. This feature-rich promo tool helped increase brand visibility, improve user retention, and provide real-time insights into player participation through analytics integration.",
+    "techologies": [
+      "laravel.png",
+      "react.png",
+      "mysql.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": "https://ole777rewards.com/"
+  },
+  {
+    "id": "christmasevent",
+    "title": "Christmas Event",
+    "image": "assets/img/christmasevent.JPG",
+    "content": "I developed the Christmas Promo Event game as part of a seasonal campaign to enhance player engagement and promote festive promotions. Designed with a holiday-themed interface, the game allowed users to participate in interactive activities and win special rewards during the Christmas season. The system included event tracking, prize management, and real-time updates to create a dynamic and enjoyable experience for users. This project successfully boosted platform traffic and contributed to higher player retention and brand visibility during the promotional period.",
+    "techologies": [
+      "laravel.png",
+      "react.png",
+      "mysql.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": "https://ole777rewards.com/"
+  },
+  {
+    "id": "play8",
+    "title": "Play8 Movies",
+    "image": "assets/img/playme.jpg",
+    "content": "As the lead and sole developer, I designed and built Play8 Movies, a comprehensive web application for the entertainment industry. The site, developed using Next.js and React, serves as a powerful tool for customer engagement and online product promotion. I also developed a dedicated CMS (Content Management System) to provide the company with full control over the platform. This CMS allows for easy management of ads banners, video advertisements, and general page content. Additionally, I implemented tools for managing SEO (Search Engine Optimization) to improve the site's visibility. The front-end was built using third-party APIs from TMDB and VDSRC, which I thoroughly optimized to ensure the site's features were both robust and aligned with the company's specific needs. This project demonstrates my ability to manage the entire development lifecycle, from API optimization and full-stack implementation to building a custom CMS.",
+    "techologies": [
+      "laravel.png",
+      "react.png",
+      "next.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": "https://play8movies.com/"
+  },
+  {
+    "id": "olemovie",
+    "title": "Olemovies",
+    "image": "assets/img/olemovie.jpg",
+    "content": "I developed Olemovies, a classic-style movie website designed to engage customers and promote online advertisements. The site, which I built as the sole full-stack developer, features a custom CMS for managing ad banners, video advertisements, and all page content. I also managed the site's SEO and integrated a third-party API from TMDB to power the movie content, ensuring optimal performance and feature alignment with the company's vision. This project demonstrates my ability to adapt to different design styles while delivering robust full-stack solutions.",
+    "techologies": [
+      "laravel.png",
+      "react.png",
+      "next.png",
+      "css.png",
+      "html.png",
+      "js.png"
+    ],
+    "link": "https://olemovies.tv/"
+  }
+]
