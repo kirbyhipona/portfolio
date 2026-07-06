@@ -1,4 +1,12 @@
 [
+   {
+    "id": "clickistry",
+    "title": "Clickistry",
+    "image": "assets/img/clickistry.png",
+    "content": "Clickistry is a Canadian web development agency specializing in custom websites, web applications, UI/UX design, AI-powered solutions, SEO, and business automation. The platform features service booking, AI chatbot integration, an automated Project Budget Estimator, client inquiry management, and a modern, responsive user experience designed to help businesses grow online.",
+    "techologies": ["laravel.png","react.png","mysql.png","boostrap.png","alpinejs.png","css.png", "html.png", "js.png"],
+    "link": "https://clickistry.ca/"
+  },
   {
     "id": "prime",
     "title": "Prime Holistic Care",

@@ -13,10 +13,10 @@ document.addEventListener("DOMContentLoaded", () => {
         slidesPerView: 3,
         spaceBetween: 10,
         grabCursor: true,
-        autoplay: {
-            delay: 10000,
-            disableOnInteraction: false,
-        },
+        // autoplay: {
+        //     delay: 10000,
+        //     disableOnInteraction: false,
+        // },
         navigation: {
             nextEl: ".swiper-button-next",
             prevEl: ".swiper-button-prev",
@@ -47,10 +47,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const swiperCert = new Swiper(".myCertSwiper", {
         loop: true,
         spaceBetween: 10,
-        autoplay: {
-            delay: 10000,
-            disableOnInteraction: false,
-        },
+        // autoplay: {
+        //     delay: 10000,
+        //     disableOnInteraction: false,
+        // },
         navigation: {
             nextEl: ".swiper-button-next",
             prevEl: ".swiper-button-prev",
@@ -113,10 +113,12 @@ document.addEventListener("DOMContentLoaded", () => {
         const modalContent = document.getElementById("modal-content");
         const techContainer = document.getElementById("modal-tech");
 
+        const projectLink = document.getElementById("project-link");
+
         modalTitle.innerHTML = project.title || "";
 
         if (project.link?.trim()) {
-            modalTitle.innerHTML += `
+            projectLink.innerHTML += `
                 <a href="${project.link}" target="_blank" rel="noopener">
                     <i class="fas fa-link"></i>
                 </a>
@@ -126,8 +128,8 @@ document.addEventListener("DOMContentLoaded", () => {
         modalImg.src = project.image || "";
         modalImg.alt = project.title || "";
         modalContent.textContent = project.content || "";
-
-        techContainer.innerHTML = "";
+        console.log(project)
+        // techContainer.innerHTML = "";
         if (Array.isArray(project.technologies)) {
             project.technologies.forEach(tech => {
                 const img = document.createElement("img");
