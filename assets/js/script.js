@@ -112,13 +112,13 @@ document.addEventListener("DOMContentLoaded", () => {
         const modalImg = document.getElementById("modal-img");
         const modalContent = document.getElementById("modal-content");
         const techContainer = document.getElementById("modal-tech");
-
-        const projectLink = document.getElementById("project-link");
+       
+        //   const  projectLink = document.getElementById("project-link");
 
         modalTitle.innerHTML = project.title || "";
 
         if (project.link?.trim()) {
-            projectLink.innerHTML += `
+            modalTitle.innerHTML += `
                 <a href="${project.link}" target="_blank" rel="noopener">
                     <i class="fas fa-link"></i>
                 </a>
